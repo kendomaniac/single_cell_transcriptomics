@@ -1,6 +1,6 @@
 # single_cell_transcriptomics
 Repository for exemplary data used in single cell transcriptomics chapters
-annotated_GSM3618014_gene_count.csv.zip dataset from GSM3618014 to which the symbols have been added
+The GEO dataset GSM3618014 includes the human lung adenocarcinoma cell lines H2228, H1975, A549, H838 and HCC827 mixed at the same ratio [[Tian et al. 2018](https://pubmed.ncbi.nlm.nih.gov/30096152/)]. annotated_GSM3618014_gene_count.csv.zip dataset is derived from GSM3618014, by adding the symbols to ensembl ids
 RNA-5c_clustering.output.csv.zip cell type annotation file from Alessandri et al. Int. J. Mol. Sci. 2021, 22, 1275.
 RNA-5c.csv.zip count table ready to be used as example. Cells identifiers include the cell type they belong.
 
