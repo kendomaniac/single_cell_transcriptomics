@@ -8,3 +8,4 @@ The GEO dataset [GSM4679532](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=
 ## Chapters:
 ### Single cell RNAseq data QC and preprocessing
 ### Single cell RNAseq complexity reduction
+### Single cell RNAseq clustering
