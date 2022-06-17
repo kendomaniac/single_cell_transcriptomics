@@ -48,6 +48,8 @@ counts2cpm <- function(file, sep = ","){
 }
 
 counts2cpm(file="symbol_annotated_saver_RNA-5c.csv", sep=",")
+             
+#saver and saver cpm data are available in 10.6084/m9.figshare.20087498
 
 # sca run version 1 or 2
 library(rCASC)
