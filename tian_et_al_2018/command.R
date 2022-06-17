@@ -77,6 +77,7 @@ autoencoder4clustering(
              
 # post processing (~/Results/CYTO/permutation)
 files=list.files(getwd())
+files-files[grep("denseSpace", files)]
 temp=read.table(files[1],sep=",",header=TRUE,row.names=1)
 for(i in files[-1]){
   temp=temp+read.table(i,header=TRUE,row.names=1,sep=",")
