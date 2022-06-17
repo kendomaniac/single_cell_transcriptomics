@@ -8,7 +8,7 @@ identical(rownames(clusters), names(data))
 names(data) <- clusters$annotated
 write.table(data, "RNA-5c.csv", sep=",", col.names=NA)
 
-### saver and saver CPM are in 10.6084/m9.figshare.20087498
+### saver and saver CPM are in 10.6084/m9.figshare.20087498 
 
 library(SAVER)
 WD = getwd()
